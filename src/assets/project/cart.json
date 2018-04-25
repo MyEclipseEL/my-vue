@@ -1,0 +1,16 @@
+[
+  //    任务列表
+  {
+    "name":"收购一份水果",
+    "reward":55.5,
+    "position":"科厦南门",
+    "owner":15893,
+    "description":"好吃，美味"
+  },
+  //登录界面
+  {
+    "email":"186@qq.com",
+    "username":"小李",
+    "password":"1856"
+  }
+]
